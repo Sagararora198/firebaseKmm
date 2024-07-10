@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825838382981",
+    "project_id": "kmp-firebase-5f7f4",
+    "storage_bucket": "kmp-firebase-5f7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825838382981:android:df72973e4b1e0090209eec",
+        "android_client_info": {
+          "package_name": "com.example.test.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmktNDrywsew_7qG_0jES-16JrlXoFDPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
